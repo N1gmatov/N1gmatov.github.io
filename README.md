@@ -26,8 +26,8 @@ Bu men o'rganayotgan va amaliyotda qo'llayotgan kiberxavfsizlik yo'nalishidagi b
 | Fayl | Vazifasi |
 |------|----------|
 | `index.html` | Saytning asosiy sahifasi |
-| `README.md` | Loyiha haqida ma'lumot (shu fayl) |
-| `googlebd47953c3ccaa765.html` | Google Search Console egalikni tasdiqlash fayli (o'chirmang) |
+| `README.md` | Loyiha haqida ma'lumot |
+| `googlebd47953c3ccaa765.html` | Google Search Console egalikni tasdiqlash fayli |
 
 ## Mahalliy ishga tushirish
 
@@ -37,5 +37,3 @@ Bu men o'rganayotgan va amaliyotda qo'llayotgan kiberxavfsizlik yo'nalishidagi b
 ## Aloqa
 
 - GitHub: [@N1gmatov](https://github.com/N1gmatov)
-
-> Diqqat: GitHub Pages ochiq kontentni ko'rsatadi. Parollar, tokenlar yoki shaxsiy ma'lumotlarni bu repozitoriyga yuklamang.
