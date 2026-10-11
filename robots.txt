@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n1gmatov.github.io/sitemap.xml
