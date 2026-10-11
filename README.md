@@ -1,23 +1,41 @@
-# Cybersecurity Portfolio Starter
+# Sherzod Nigmatov | Cybersecurity Portfolio
 
-A beginner-friendly, bilingual (English/Uzbek) static portfolio for GitHub Pages.
+Kiberxavfsizlik yo'nalishidagi shaxsiy portfolio sayti.
+*Personal cybersecurity portfolio website.*
 
-## Before publishing
-1. Replace `USERNAME` in the canonical URL inside `index.html` with your GitHub username.
-2. Replace placeholder GitHub, LinkedIn, and TryHackMe links with your real profile URLs.
-3. Review all claims and project descriptions; only list work you have actually done.
-4. Commit `index.html` to the root of your `USERNAME.github.io` repository.
+**Sayt / Live site:** https://n1gmatov.github.io/
 
-## Publish
-Repository -> Settings -> Pages -> Build and deployment:
-- Source: Deploy from a branch
-- Branch: `main`
-- Folder: `/(root)`
-- Save
+## Bu nima?
 
-Your site should appear at `https://USERNAME.github.io/` after the deployment finishes.
+Bu men o'rganayotgan va amaliyotda qo'llayotgan kiberxavfsizlik yo'nalishidagi bilim, ko'nikma va loyihalarimni jamlagan oddiy statik sayt. Sayt GitHub Pages orqali bepul joylangan.
 
-## Notes
-- GitHub Pages serves public content. Do not publish passwords, private data, access tokens, or sensitive lab flags.
-- This is a static site; it does not need a server or a database.
-- Google indexing and enhanced search results are not guaranteed.
+## Saytda nimalar bor
+
+- Men haqimda qisqacha ma'lumot
+- Ko'nikmalar va o'rganayotgan yo'nalishlar
+- Loyihalar va amaliy ishlar
+- Aloqa va profil havolalari (GitHub, LinkedIn, TryHackMe)
+
+## Texnologiyalar
+
+- HTML (statik sahifa, server yoki ma'lumotlar bazasi kerak emas)
+- GitHub Pages (hosting)
+
+## Fayllar tuzilishi
+
+| Fayl | Vazifasi |
+|------|----------|
+| `index.html` | Saytning asosiy sahifasi |
+| `README.md` | Loyiha haqida ma'lumot (shu fayl) |
+| `googlebd47953c3ccaa765.html` | Google Search Console egalikni tasdiqlash fayli (o'chirmang) |
+
+## Mahalliy ishga tushirish
+
+1. Repozitoriyni yuklab oling: `git clone https://github.com/N1gmatov/N1gmatov.github.io.git`
+2. `index.html` faylini brauzerda oching.
+
+## Aloqa
+
+- GitHub: [@N1gmatov](https://github.com/N1gmatov)
+
+> Diqqat: GitHub Pages ochiq kontentni ko'rsatadi. Parollar, tokenlar yoki shaxsiy ma'lumotlarni bu repozitoriyga yuklamang.
